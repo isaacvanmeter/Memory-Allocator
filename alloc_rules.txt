@@ -1,0 +1,12 @@
+The allocator follows the following rules:
+1. If an allocation of size of 5, 10, or 20 is requested, the allocator should assign it to one of the
+appropriately sized quick fit blocks.
+2. For any other allocation size, it should assign it a free region in the catchall area, using the first-fit
+algorithm.
+3. If a block of size 5, 10, or 20 is requested, but all of the appropriate-sized blocks are full, then it should
+use the catchall area for the request.
+4. If the catchall area doesn’t have an open slot big enough to accommodate a request, then your
+program should use the smallest one of the 5, 10, and 20 blocks that fits the request and is not in use
+5. If there is no way at all to accommodate a request, then your program should print that there is no
+room.
+6. Anytime free is called, the allocator should free up the memory being held by the allocation specified.
