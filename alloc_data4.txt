@@ -1,0 +1,100 @@
+A allocate 14
+B allocate 14
+C allocate 34
+D allocate 25
+B free 
+E allocate 21
+F allocate 21
+G allocate 12
+H allocate 33
+I allocate 9
+J allocate 14
+K allocate 3
+K free 
+E free 
+L allocate 25
+M allocate 14
+I free 
+N allocate 11
+O allocate 32
+P allocate 32
+Q allocate 30
+R allocate 8
+M free 
+S allocate 34
+T allocate 23
+D free 
+U allocate 13
+V allocate 13
+W allocate 13
+X allocate 13
+Y allocate 18
+R free 
+Z allocate 24
+BA allocate 15
+F free 
+BB allocate 15
+N free 
+BC allocate 6
+BD allocate 17
+BE allocate 36
+BF allocate 36
+Z free 
+U free 
+BG allocate 36
+Y free 
+BH allocate 22
+BI allocate 19
+BJ allocate 39
+BA free 
+BK allocate 16
+BL allocate 36
+BM allocate 38
+BN allocate 11
+BO allocate 35
+T free 
+BP allocate 35
+BQ allocate 11
+BR allocate 35
+BS allocate 16
+BT allocate 9
+BU allocate 8
+BG free 
+X free 
+BV allocate 8
+C free 
+BW allocate 8
+BX allocate 30
+BY allocate 14
+BD free 
+BZ allocate 14
+CA allocate 14
+CB allocate 9
+BP free 
+CC allocate 7
+CD allocate 3
+CE allocate 24
+V free 
+CF allocate 39
+CG allocate 39
+CH allocate 39
+CI allocate 9
+BV free 
+CJ allocate 28
+CK allocate 21
+BI free 
+CL allocate 14
+CM allocate 29
+CN allocate 9
+CO allocate 29
+CP allocate 29
+CQ allocate 34
+CR allocate 6
+CS allocate 12
+CT allocate 4
+CN free 
+CG free 
+BS free 
+CU allocate 12
+CV allocate 15
+CW allocate 3
